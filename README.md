@@ -4,7 +4,7 @@ Coinbase
 ![image](https://user-images.githubusercontent.com/78818613/114281241-e9ea7180-9a02-11eb-87da-46b77c05ed4f.png)
 
 
-What is the background of this company? What do they do? Who are its competitors? 
+**What is the background of this company? What do they do? Who are its competitors?** 
 
 Coinbase is a Cryptocurrency exchange that has been around since 2012. It has a mix of retail and institutional traders involved in exchanging cryptocurrency. Some of the competitors in the crypto exchange market are Robinhood, Abra, and SoFi Invest.
 
