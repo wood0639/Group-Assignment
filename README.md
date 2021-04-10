@@ -3,6 +3,9 @@ Session 3 group work
 Coinbase
 ![image](https://user-images.githubusercontent.com/78818613/114281241-e9ea7180-9a02-11eb-87da-46b77c05ed4f.png)
 
+## deep dive into coinbase
+
+### coinbase study discussed
 
 **What is the background of this company? What do they do? Who are its competitors?** 
 
@@ -17,3 +20,5 @@ Coinbase is a Cryptocurrency exchange that has been around since 2012. It has a 
 Coinbase is expecting to expand their userbase in Q1 2021 to 56 million users.
 They expect a revenue of $1.8 billion and a net income of $730-$800 million.
 They are expected to IPO in the near future as well.
+
+Group members: Daniel R. Faulks, Cyrill, David, Cole
