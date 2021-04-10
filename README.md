@@ -1,6 +1,8 @@
 # Group-Assignment
 Session 3 group work
 Coinbase
+![image](https://user-images.githubusercontent.com/78818613/114281241-e9ea7180-9a02-11eb-87da-46b77c05ed4f.png)
+
 
 What is the background of this company? What do they do? Who are its competitors? 
 
